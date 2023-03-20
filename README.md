@@ -1,16 +1,12 @@
-# peliculas
+<h2 align="center">Aplicacion pelicula consumiendo Api Flutter-Dart </h2>
+<h3 align="center">A passionate web developer, Mobile,UI/UX Designer from Perú</h3>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<h3 align="left">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/EfrainLim/app-pelicula/blob/main/Captura/Screenshot_1679350795.png" alt="tailwind" width="32%" height="33%"/>
+<img src="https://github.com/EfrainLim/app-pelicula/blob/main/Captura/Screenshot_1679350886.png" alt="tailwind" width="32%" height="33%"/>
+<img src="https://github.com/EfrainLim/app-pelicula/blob/main/Captura/Screenshot_1679350903.png" alt="tailwind" width="32%" height="33%"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
